@@ -1,697 +1,697 @@
 [
     {
         "stadium_name": "Atatürk Olimpiyat Stadyumu",
-        "stadium_capacity": "76.092",
+        "stadium_capacity": 76092,
         "stadium_city": "İstanbul",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "Türk Telekom Arena",
-        "stadium_capacity": "52.600",
+        "stadium_capacity": 52600,
         "stadium_city": "İstanbul",
         "stadium_user": "Galatasaray"
     },
     {
         "stadium_name": "İzmir Atatürk Stadyumu",
-        "stadium_capacity": "51.295",
+        "stadium_capacity": 51295,
         "stadium_city": "İzmir",
         "stadium_user": "Karşıyaka / Göztepe / Altay"
     },
     {
         "stadium_name": "Fenerbahçe Şükrü Saracoğlu Stadyumu",
-        "stadium_capacity": "50.509",
+        "stadium_capacity": 50509,
         "stadium_city": "İstanbul",
         "stadium_user": "Fenerbahçe"
     },
     {
         "stadium_name": "Timsah Arena",
-        "stadium_capacity": "43.331",
+        "stadium_capacity": 43331,
         "stadium_city": "Bursa",
         "stadium_user": "Bursaspor"
     },
     {
         "stadium_name": "Konya Büyükşehir Torku Arena",
-        "stadium_capacity": "41.981",
+        "stadium_capacity": 41981,
         "stadium_city": "Konya",
         "stadium_user": "Konyaspor"
     },
     {
         "stadium_name": "Vodafone Arena",
-        "stadium_capacity": "41.903",
+        "stadium_capacity": 41903,
         "stadium_city": "İstanbul",
         "stadium_user": "Beşiktaş"
     },
     {
         "stadium_name": "Şenol Güneş Stadyumu",
-        "stadium_capacity": "41.461",
+        "stadium_capacity": 41461,
         "stadium_city": "Trabzon",
         "stadium_user": "Trabzonspor"
     },
     {
         "stadium_name": "Cebeci İnönü Stadyumu",
-        "stadium_capacity": "37.000",
+        "stadium_capacity": 37000,
         "stadium_city": "Ankara",
         "stadium_user": "Hacettepe / Ankara Demirspor"
     },
     {
         "stadium_name": "Kayseri Kadir Has Şehir Stadyumu",
-        "stadium_capacity": "32.864",
+        "stadium_capacity": 32864,
         "stadium_city": "Kayseri",
         "stadium_user": "Kayserispor / Kayseri Erciyesspor"
     },
     {
         "stadium_name": "Antalya Arena",
-        "stadium_capacity": "32.539",
+        "stadium_capacity": 32539,
         "stadium_city": "Antalya",
         "stadium_user": "Antalyaspor"
     },
     {
         "stadium_name": "Şanlıurfa GAP Stadyumu",
-        "stadium_capacity": "28.965",
+        "stadium_capacity": 28965,
         "stadium_city": "Şanlıurfa",
         "stadium_user": "Şanlıurfaspor"
     },
     {
         "stadium_name": "Yeni 4 Eylül Stadyumu",
-        "stadium_capacity": "27.532",
+        "stadium_capacity": 27532,
         "stadium_city": "Sivas",
         "stadium_user": "Sivasspor"
     },
     {
         "stadium_name": "Mersin Arena",
-        "stadium_capacity": "25.497",
+        "stadium_capacity": 25497,
         "stadium_city": "Mersin",
         "stadium_user": "Mersin İdman Yurdu"
     },
     {
         "stadium_name": "Ay-Yıldızlı Stadyum",
-        "stadium_capacity": "25.000",
+        "stadium_capacity": 25000,
         "stadium_city": "Karabük",
         "stadium_user": "Karabük Üniversitesi"
     },
     {
         "stadium_name": "Hüseyin Avni Aker Stadyumu",
-        "stadium_capacity": "24.169",
+        "stadium_capacity": 24169,
         "stadium_city": "Trabzon",
         "stadium_user": "Trabzonspor"
     },
     {
         "stadium_name": "Kâzım Karabekir Stadyumu",
-        "stadium_capacity": "23.700",
+        "stadium_capacity": 23700,
         "stadium_city": "Erzurum",
         "stadium_user": "Erzurumspor / Erzurum Büyükşehir Belediyespor"
     },
     {
         "stadium_name": "Konya Atatürk Stadyumu",
-        "stadium_capacity": "21.968",
+        "stadium_capacity": 21968,
         "stadium_city": "Konya",
         "stadium_user": "Anadolu Selçukspor"
     },
     {
         "stadium_name": "Bağlum Belediye Stadyumu",
-        "stadium_capacity": "20.000 (N)",
+        "stadium_capacity": 20000,
         "stadium_city": "Ankara",
         "stadium_user": "Keçiören Bağlumspor"
     },
     {
         "stadium_name": "Büyükçekmece Stadyumu",
-        "stadium_capacity": "20.000",
+        "stadium_capacity": 20000,
         "stadium_city": "İstanbul",
         "stadium_user": "Büyükçekmece Spor Kulübü"
     },
     {
         "stadium_name": "Osmanlı Stadyumu",
-        "stadium_capacity": "19.626",
+        "stadium_capacity": 19626,
         "stadium_city": "Ankara",
         "stadium_user": "Osmanlıspor"
     },
     {
         "stadium_name": "Ankara 19 Mayıs Stadyumu",
-        "stadium_capacity": "19.209",
+        "stadium_capacity": 19209,
         "stadium_city": "Ankara",
         "stadium_user": "Ankaragücü / Gençlerbirliği / Hacettepe"
     },
     {
         "stadium_name": "Başakşehir Fatih Terim Stadyumu",
-        "stadium_capacity": "17.300",
+        "stadium_capacity": 17300,
         "stadium_city": "İstanbul",
         "stadium_user": "Başakşehir FK"
     },
     {
         "stadium_name": "Kamil Ocak Stadyumu",
-        "stadium_capacity": "16.981",
+        "stadium_capacity": 16981,
         "stadium_city": "Gaziantep",
         "stadium_user": "Gaziantepspor / Gaziantep Büyükşehir Belediyespor"
     },
     {
         "stadium_name": "Manisa 19 Mayıs Stadyumu",
-        "stadium_capacity": "16.597",
+        "stadium_capacity": 16597,
         "stadium_city": "Manisa",
         "stadium_user": "Manisaspor, Akhisar Belediyespor"
     },
     {
         "stadium_name": "Samsun 19 Mayıs Stadyumu",
-        "stadium_capacity": "16.480",
+        "stadium_capacity": 16480,
         "stadium_city": "Samsun",
         "stadium_user": "Samsunspor"
     },
     {
         "stadium_name": "5 Ocak Fatih Terim Stadyumu",
-        "stadium_capacity": "16.095",
+        "stadium_capacity": 16095,
         "stadium_city": "Adana",
         "stadium_user": "Adanaspor / Adana Demirspor"
     },
     {
         "stadium_name": "Dr. Necmettin Şeyhoğlu Stadyumu",
-        "stadium_capacity": "16.000",
+        "stadium_capacity": 16000,
         "stadium_city": "Karabük",
         "stadium_user": "Kardemir Karabükspor"
     },
     {
         "stadium_name": "Zeytinburnu Stadyumu",
-        "stadium_capacity": "16.000",
+        "stadium_capacity": 16000,
         "stadium_city": "İstanbul",
         "stadium_user": "Zeytinburnuspor"
     },
     {
         "stadium_name": "Balıkesir Atatürk Stadyumu",
-        "stadium_capacity": "15.800",
+        "stadium_capacity": 15800,
         "stadium_city": "Balıkesir",
         "stadium_user": "Balıkesirspor"
     },
     {
         "stadium_name": "Çaykur Didi Stadyumu",
-        "stadium_capacity": "15.485",
+        "stadium_capacity": 15485,
         "stadium_city": "Rize",
         "stadium_user": "Çaykur Rizespor"
     },
     {
         "stadium_name": "Gebze Alaettin Kurt Stadyumu",
-        "stadium_capacity": "15.462",
+        "stadium_capacity": 15462,
         "stadium_city": "Kocaeli",
         "stadium_user": "Gebzespor"
     },
     {
         "stadium_name": "Denizli Atatürk Stadyumu",
-        "stadium_capacity": "15.427",
+        "stadium_capacity": 15427,
         "stadium_city": "Denizli",
         "stadium_user": "Denizlispor"
     },
     {
         "stadium_name": "Afyonkarahisar Stadyumu",
-        "stadium_capacity": "15.000",
+        "stadium_capacity": 15000,
         "stadium_city": "Afyonkarahisar",
         "stadium_user": "Afyonkarahisarspor / Sandıklıspor"
     },
     {
         "stadium_name": "Başpınar Stadyumu",
-        "stadium_capacity": "15.000",
+        "stadium_capacity": 15000,
         "stadium_city": "Kırıkkale",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "4 Eylül Stadyumu",
-        "stadium_capacity": "14.998",
+        "stadium_capacity": 14998,
         "stadium_city": "Sivas",
         "stadium_user": "Sivasspor"
     },
     {
         "stadium_name": "12 Şubat Stadyumu",
-        "stadium_capacity": "14.600",
+        "stadium_capacity": 14600,
         "stadium_city": "Kahramanmaraş",
         "stadium_user": "Kahramanmaraşspor"
     },
     {
         "stadium_name": "Recep Tayyip Erdoğan Stadyumu",
-        "stadium_capacity": "14.234",
+        "stadium_capacity": 14234,
         "stadium_city": "İstanbul",
         "stadium_user": "Kasımpaşa"
     },
     {
         "stadium_name": "Elazığ Atatürk Stadyumu",
-        "stadium_capacity": "13.923",
+        "stadium_capacity": 13923,
         "stadium_city": "Elâzığ",
         "stadium_user": "Elazığspor"
     },
     {
         "stadium_name": "Karaelmas Kemal Köksal Stadyumu",
-        "stadium_capacity": "13.795",
+        "stadium_capacity": 13795,
         "stadium_city": "Zonguldak",
         "stadium_user": "Zonguldak Kömürspor"
     },
     {
         "stadium_name": "Eskişehir Atatürk Stadyumu",
-        "stadium_capacity": "13.520",
+        "stadium_capacity": 13520,
         "stadium_city": "Eskişehir",
         "stadium_user": "Eskişehirspor"
     },
     {
         "stadium_name": "Sakarya Atatürk Stadyumu",
-        "stadium_capacity": "13.216",
+        "stadium_capacity": 13216,
         "stadium_city": "Sakarya",
         "stadium_user": "Sakaryaspor"
     },
     {
         "stadium_name": "Diyarbakır Atatürk Stadyumu",
-        "stadium_capacity": "12.963",
+        "stadium_capacity": 12963,
         "stadium_city": "Diyarbakır",
         "stadium_user": "Diyarbakırspor"
     },
     {
         "stadium_name": "18 Mart Stadyumu",
-        "stadium_capacity": "12.900",
+        "stadium_capacity": 12900,
         "stadium_city": "Çanakkale",
         "stadium_user": "Çanakkale Dardanelspor"
     },
     {
         "stadium_name": "Akdeniz Üniversitesi Stadyumu",
-        "stadium_capacity": "12.893",
+        "stadium_capacity": 12893,
         "stadium_city": "Antalya",
         "stadium_user": "Antalyaspor"
     },
     {
         "stadium_name": "İsmetpaşa Stadyumu",
-        "stadium_capacity": "12.710",
+        "stadium_capacity": 12710,
         "stadium_city": "Kocaeli",
         "stadium_user": "Kocaelispor"
     },
     {
         "stadium_name": "5 Temmuz Stadyumu",
-        "stadium_capacity": "12.390",
+        "stadium_capacity": 12390,
         "stadium_city": "Hatay",
         "stadium_user": "İskenderun Demir Çelikspor"
     },
     {
         "stadium_name": "Giresun Atatürk Stadyumu",
-        "stadium_capacity": "12.191",
+        "stadium_capacity": 12191,
         "stadium_city": "Giresun",
         "stadium_user": "Giresunspor"
     },
     {
         "stadium_name": "Dumlupınar Stadyumu",
-        "stadium_capacity": "12.000",
+        "stadium_capacity": 12000,
         "stadium_city": "Kütahya",
         "stadium_user": "Kütahyaspor"
     },
     {
         "stadium_name": "Dr. Turhan Kılıççıoğlu Stadyumu",
-        "stadium_capacity": "11.263",
+        "stadium_capacity": 11263,
         "stadium_city": "Çorum",
         "stadium_user": "Çorumspor"
     },
     {
         "stadium_name": "19 Eylül Stadyumu",
-        "stadium_capacity": "11.024",
+        "stadium_capacity": 11024,
         "stadium_city": "Ordu",
         "stadium_user": "Orduspor"
     },
     {
         "stadium_name": "Adnan Menderes Stadyumu",
-        "stadium_capacity": "10.988",
+        "stadium_capacity": 10988,
         "stadium_city": "Aydın",
         "stadium_user": "Aydınspor 1923"
     },
     {
         "stadium_name": "Alanya Oba Stadyumu",
-        "stadium_capacity": "10.842",
+        "stadium_capacity": 10842,
         "stadium_city": "Antalya",
         "stadium_user": "Alanyaspor"
     },
     {
         "stadium_name": "Mukan Perinçek Stadyumu",
-        "stadium_capacity": "10.500",
+        "stadium_capacity": 10500,
         "stadium_city": "Aydın",
         "stadium_user": "Aydınspor"
     },
     {
         "stadium_name": "Van Atatürk Stadyumu",
-        "stadium_capacity": "10.500",
+        "stadium_capacity": 10500,
         "stadium_city": "Van",
         "stadium_user": "Belediye Vanspor / Vanspor"
     },
     {
         "stadium_name": "Malatya İnönü Stadyumu",
-        "stadium_capacity": "10.411",
+        "stadium_capacity": 10411,
         "stadium_city": "Malatya",
         "stadium_user": "Malatyaspor / Yeni Malatyaspor"
     },
     {
         "stadium_name": "Ünye İlçe Stadyumu",
-        "stadium_capacity": "10.340",
+        "stadium_capacity": 10340,
         "stadium_city": "Ordu",
         "stadium_user": "Ünyespor"
     },
     {
         "stadium_name": "Tevfik Sırrı Gür Stadyumu",
-        "stadium_capacity": "10.128",
+        "stadium_capacity": 10128,
         "stadium_city": "Mersin",
         "stadium_user": "Mersin İdman Yurdu"
     },
     {
         "stadium_name": "Afyon Atatürk Stadyumu",
-        "stadium_capacity": "10.000",
+        "stadium_capacity": 10000,
         "stadium_city": "Afyonkarahisar",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "Artvin Şehir Stadyumu",
-        "stadium_capacity": "10.000",
+        "stadium_capacity": 10000,
         "stadium_city": "Artvin",
         "stadium_user": "Artvin Murgulspor"
     },
     {
         "stadium_name": "Isparta Atatürk Şehir Stadyumu",
-        "stadium_capacity": "10.000",
+        "stadium_capacity": 10000,
         "stadium_city": "Isparta",
         "stadium_user": "Ispartaspor"
     },
     {
         "stadium_name": "Vali Lütfü Yiğenoğlu Stadyumu",
-        "stadium_capacity": "10.000",
+        "stadium_capacity": 10000,
         "stadium_city": "Ağrı",
         "stadium_user": "Ağrıspor"
     },
     {
         "stadium_name": "Hanefi Mahçiçek Stadyumu",
-        "stadium_capacity": "9.169",
+        "stadium_capacity": 9169,
         "stadium_city": "Kahramanmaraş",
         "stadium_user": "Kahramanmaraş Belediyespor"
     },
     {
         "stadium_name": "Yalova Atatürk Stadyumu",
-        "stadium_capacity": "8.980",
+        "stadium_capacity": 8980,
         "stadium_city": "Yalova",
         "stadium_user": "Yalovaspor"
     },
     {
         "stadium_name": "Bolu Atatürk Stadyumu",
-        "stadium_capacity": "8.881",
+        "stadium_capacity": 8881,
         "stadium_city": "Bolu",
         "stadium_user": "Boluspor"
     },
     {
         "stadium_name": "Buca Arena",
-        "stadium_capacity": "8.810",
+        "stadium_capacity": 8810,
         "stadium_city": "İzmir",
         "stadium_user": "Bucaspor"
     },
     {
         "stadium_name": "Adıyaman Atatürk Stadyumu",
-        "stadium_capacity": "8.596",
+        "stadium_capacity": 8596,
         "stadium_city": "Adıyaman",
         "stadium_user": "Adıyamanspor"
     },
     {
         "stadium_name": "Fethiye İlçe Stadyumu",
-        "stadium_capacity": "8.372",
+        "stadium_capacity": 8372,
         "stadium_city": "Muğla",
         "stadium_user": "Fethiyespor"
     },
     {
         "stadium_name": "Bozok Stadyumu",
-        "stadium_capacity": "8.260",
+        "stadium_capacity": 8260,
         "stadium_city": "Yozgat",
         "stadium_user": "Yimpaş Yozgatspor"
     },
     {
         "stadium_name": "Kuşadası Özer Türk Stadyumu",
-        "stadium_capacity": "8.000",
+        "stadium_capacity": 8000,
         "stadium_city": "Aydın",
         "stadium_user": "Kuşadası Spor Kulübü"
     },
     {
         "stadium_name": "Şenlikköy Stadyumu",
-        "stadium_capacity": "8.000",
+        "stadium_capacity": 8000,
         "stadium_city": "İstanbul",
         "stadium_user": "Bakırköyspor"
     },
     {
         "stadium_name": "Mardan Spor Kompleksi",
-        "stadium_capacity": "7.938",
+        "stadium_capacity": 7938,
         "stadium_city": "Antalya",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "12 Haziran Stadyumu",
-        "stadium_capacity": "7.810",
+        "stadium_capacity": 7810,
         "stadium_city": "Amasya",
         "stadium_user": "Amasyaspor"
     },
     {
         "stadium_name": "Muğla Atatürk Stadyumu",
-        "stadium_capacity": "7.755",
+        "stadium_capacity": 7755,
         "stadium_city": "Muğla",
         "stadium_user": "Muğlaspor"
     },
     {
         "stadium_name": "Mimar Yahya Baş Stadyumu",
-        "stadium_capacity": "7.589",
+        "stadium_capacity": 7589,
         "stadium_city": "İstanbul",
         "stadium_user": "İstanbul Güngörenspor"
     },
     {
         "stadium_name": "Nevşehir Gazi Stadyumu",
-        "stadium_capacity": "7.503",
+        "stadium_capacity": 7503,
         "stadium_city": "Nevşehir",
         "stadium_user": "Nevşehirspor"
     },
     {
         "stadium_name": "Ahi Stadyumu",
-        "stadium_capacity": "7.500",
+        "stadium_capacity": 7500,
         "stadium_city": "Kırşehir",
         "stadium_user": "Yeni Kırşehirspor"
     },
     {
         "stadium_name": "Kartal Stadyumu",
-        "stadium_capacity": "7.195",
+        "stadium_capacity": 7195,
         "stadium_city": "İstanbul",
         "stadium_user": "Kartalspor"
     },
     {
         "stadium_name": "7 Ocak Stadyumu",
-        "stadium_capacity": "6.635",
+        "stadium_capacity": 6635,
         "stadium_city": "Osmaniye",
         "stadium_user": "Osmaniyespor"
     },
     {
         "stadium_name": "Vefa Stadyumu",
-        "stadium_capacity": "6.500",
+        "stadium_capacity": 6500,
         "stadium_city": "İstanbul",
         "stadium_user": "Fatih Karagümrük"
     },
     {
         "stadium_name": "Yıldıztabya Stadyumu",
-        "stadium_capacity": "6.500",
+        "stadium_capacity": 6500,
         "stadium_city": "İstanbul",
         "stadium_user": "Yıldıztabya Spor Kulübü"
     },
     {
         "stadium_name": "Akçaabat Fatih Stadyumu",
-        "stadium_capacity": "6.238",
+        "stadium_capacity": 6238,
         "stadium_city": "Trabzon",
         "stadium_user": "Akçaabat Sebatspor"
     },
     {
         "stadium_name": "Buca Stadyumu",
-        "stadium_capacity": "6.231",
+        "stadium_capacity": 6231,
         "stadium_city": "İzmir",
         "stadium_user": "İzmirspor"
     },
     {
         "stadium_name": "Ziya Altınoğlu Stadyumu",
-        "stadium_capacity": "6.150",
+        "stadium_capacity": 6150,
         "stadium_city": "İstanbul",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "Antakya Atatürk Stadyumu",
-        "stadium_capacity": "6.015",
+        "stadium_capacity": 6015,
         "stadium_city": "Hatay",
         "stadium_user": "Hatayspor"
     },
     {
         "stadium_name": "13 Şubat Stadyumu",
-        "stadium_capacity": "6.000",
+        "stadium_capacity": 6000,
         "stadium_city": "Erzincan",
         "stadium_user": "Erzincanspor"
     },
     {
         "stadium_name": "Esenler Kemer Stadyumu",
-        "stadium_capacity": "6.000",
+        "stadium_capacity": 6000,
         "stadium_city": "İstanbul",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "Firüzköy Stadyumu",
-        "stadium_capacity": "6.000",
+        "stadium_capacity": 6000,
         "stadium_city": "İstanbul",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "1 Eylül Stadyumu",
-        "stadium_capacity": "5.944",
+        "stadium_capacity": 5944,
         "stadium_city": "Uşak",
         "stadium_user": "Uşakspor"
     },
     {
         "stadium_name": "Tokat Gaziosmanpaşa Stadyumu",
-        "stadium_capacity": "5.762",
+        "stadium_capacity": 5762,
         "stadium_city": "Tokat",
         "stadium_user": "Tokatspor"
     },
     {
         "stadium_name": "21 Kasım Stadyumu",
-        "stadium_capacity": "5.700",
+        "stadium_capacity": 5700,
         "stadium_city": "Mardin",
         "stadium_user": "Mardinspor"
     },
     {
         "stadium_name": "Siirt Atatürk Stadyumu",
-        "stadium_capacity": "5.650",
+        "stadium_capacity": 5650,
         "stadium_city": "Siirt",
         "stadium_user": "Siirtspor"
     },
     {
         "stadium_name": "Esenyurt Belediyesi Stadyumu",
-        "stadium_capacity": "5.500",
+        "stadium_capacity": 5500,
         "stadium_city": "İstanbul",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "Beylerbeyi 75. Yıl Stadyumu",
-        "stadium_capacity": "5.500",
+        "stadium_capacity": 5500,
         "stadium_city": "İstanbul",
         "stadium_user": "Anadolu Üsküdar 1908 / Beylerbeyispor"
     },
     {
         "stadium_name": "Esenyurt Stadyumu",
-        "stadium_capacity": "5.500",
+        "stadium_capacity": 5500,
         "stadium_city": "İstanbul",
         "stadium_user": "Yeni Esenyurt"
     },
     {
         "stadium_name": "Merzifon İlçe Stadyumu",
-        "stadium_capacity": "5.450",
+        "stadium_capacity": 5450,
         "stadium_city": "Amasya",
         "stadium_user": "Merzifonspor"
     },
     {
         "stadium_name": "Fikret Karabudak Stadyumu",
-        "stadium_capacity": "5.402",
+        "stadium_capacity": 5402,
         "stadium_city": "Kırıkkale",
         "stadium_user": "MKE Kırıkkalespor"
     },
     {
         "stadium_name": "17 Eylül Stadyumu",
-        "stadium_capacity": "5.400",
+        "stadium_capacity": 5400,
         "stadium_city": "Balıkesir",
         "stadium_user": "Bandırmaspor"
     },
     {
         "stadium_name": "General Basri Saran Stadyumu",
-        "stadium_capacity": "5.300",
+        "stadium_capacity": 5300,
         "stadium_city": "Tekirdağ",
         "stadium_user": "Çerkezköy Belediyespor / Çorluspor"
     },
     {
         "stadium_name": "Şeyh Edebali Stadyumu",
-        "stadium_capacity": "5.150",
+        "stadium_capacity": 5150,
         "stadium_city": "Bilecik",
         "stadium_user": "Bilecikspor"
     },
     {
         "stadium_name": "Kızılcahamam İlçe Stadyumu",
-        "stadium_capacity": "5.124",
+        "stadium_capacity": 5124,
         "stadium_city": "Ankara",
         "stadium_user": "Kızılcahamamspor"
     },
     {
         "stadium_name": "18 Temmuz Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Düzce",
         "stadium_user": "Düzcespor"
     },
     {
         "stadium_name": "Aliağa Petkim Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "İzmir",
         "stadium_user": "Petkimspor"
     },
     {
         "stadium_name": "Avcılar Turgut Özal Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "İstanbul",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "Bayburt Genç Osman Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Bayburt",
         "stadium_user": "Bayburtspor"
     },
     {
         "stadium_name": "Burdur Gazi Atatürk Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Burdur",
         "stadium_user": "Burdurspor"
     },
     {
         "stadium_name": "Çayırbaşı Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "İstanbul",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "Hüsnü Uğural Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Balıkesir",
         "stadium_user": "Ayvalıkgücü Belediyespor"
     },
     {
         "stadium_name": "İhsaniye Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Kocaeli",
-        "stadium_user": "-"
+        "stadium_user": ""
     },
     {
         "stadium_name": "Kars Şehir Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Kars",
         "stadium_user": "Karsspor"
     },
     {
         "stadium_name": "Kilimli İlçe Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Zonguldak",
         "stadium_user": "Kilimli Belediyespor"
     },
     {
         "stadium_name": "Maltepe Hasan Polat Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "İstanbul",
         "stadium_user": "Maltepespor"
     },
     {
         "stadium_name": "Niğde 5 Şubat Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Niğde",
         "stadium_user": "Niğdespor"
     },
     {
         "stadium_name": "Sapanca Atatürk Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Sakarya",
         "stadium_user": "Sapanca Gençlikspor"
     },
     {
         "stadium_name": "Şehit Hamdibey Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "Balıkesir",
         "stadium_user": "Edremit Belediyespor"
     },
     {
         "stadium_name": "Yusuf Ziya Öniş Stadyumu",
-        "stadium_capacity": "5.000",
+        "stadium_capacity": 5000,
         "stadium_city": "İstanbul",
         "stadium_user": "Sarıyer"
     }
