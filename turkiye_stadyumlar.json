@@ -15,7 +15,7 @@
         "stadium_name": "İzmir Atatürk Stadyumu",
         "stadium_capacity": 51295,
         "stadium_city": "İzmir",
-        "stadium_user": "Karşıyaka / Göztepe / Altay"
+        "stadium_user": "Karşıyaka,Göztepe,Altay"
     },
     {
         "stadium_name": "Fenerbahçe Şükrü Saracoğlu Stadyumu",
@@ -30,13 +30,13 @@
         "stadium_user": "Bursaspor"
     },
     {
-        "stadium_name": "Konya Büyükşehir Torku Arena",
+        "stadium_name": "Konya Büyükşehir Stadyumu",
         "stadium_capacity": 41981,
         "stadium_city": "Konya",
         "stadium_user": "Konyaspor"
     },
     {
-        "stadium_name": "Vodafone Arena",
+        "stadium_name": "Vodafone Park",
         "stadium_capacity": 41903,
         "stadium_city": "İstanbul",
         "stadium_user": "Beşiktaş"
@@ -51,16 +51,16 @@
         "stadium_name": "Cebeci İnönü Stadyumu",
         "stadium_capacity": 37000,
         "stadium_city": "Ankara",
-        "stadium_user": "Hacettepe / Ankara Demirspor"
+        "stadium_user": "Hacettepe,Ankara Demirspor"
     },
     {
         "stadium_name": "Kayseri Kadir Has Şehir Stadyumu",
         "stadium_capacity": 32864,
         "stadium_city": "Kayseri",
-        "stadium_user": "Kayserispor / Kayseri Erciyesspor"
+        "stadium_user": "Kayserispor,Kayseri Erciyesspor"
     },
     {
-        "stadium_name": "Antalya Arena",
+        "stadium_name": "Antalya Stadyumu",
         "stadium_capacity": 32539,
         "stadium_city": "Antalya",
         "stadium_user": "Antalyaspor"
@@ -78,7 +78,7 @@
         "stadium_user": "Sivasspor"
     },
     {
-        "stadium_name": "Mersin Arena",
+        "stadium_name": "Mersin Stadyumu",
         "stadium_capacity": 25497,
         "stadium_city": "Mersin",
         "stadium_user": "Mersin İdman Yurdu"
@@ -96,10 +96,10 @@
         "stadium_user": "Trabzonspor"
     },
     {
-        "stadium_name": "Kâzım Karabekir Stadyumu",
+        "stadium_name": "Kazım Karabekir Stadyumu",
         "stadium_capacity": 23700,
         "stadium_city": "Erzurum",
-        "stadium_user": "Erzurumspor / Erzurum Büyükşehir Belediyespor"
+        "stadium_user": "Erzurumspor,Erzurum Büyükşehir Belediyespor"
     },
     {
         "stadium_name": "Konya Atatürk Stadyumu",
@@ -129,7 +129,7 @@
         "stadium_name": "Ankara 19 Mayıs Stadyumu",
         "stadium_capacity": 19209,
         "stadium_city": "Ankara",
-        "stadium_user": "Ankaragücü / Gençlerbirliği / Hacettepe"
+        "stadium_user": "Ankaragücü,Gençlerbirliği,Hacettepe"
     },
     {
         "stadium_name": "Başakşehir Fatih Terim Stadyumu",
@@ -138,16 +138,16 @@
         "stadium_user": "Başakşehir FK"
     },
     {
-        "stadium_name": "Kamil Ocak Stadyumu",
-        "stadium_capacity": 16981,
+        "stadium_name": "Gaziantep Stadyumu",
+        "stadium_capacity": 33502,
         "stadium_city": "Gaziantep",
-        "stadium_user": "Gaziantepspor / Gaziantep Büyükşehir Belediyespor"
+        "stadium_user": "Gaziantepspor,Gaziantep Büyükşehir Belediyespor"
     },
     {
         "stadium_name": "Manisa 19 Mayıs Stadyumu",
         "stadium_capacity": 16597,
         "stadium_city": "Manisa",
-        "stadium_user": "Manisaspor, Akhisar Belediyespor"
+        "stadium_user": "Manisaspor,Akhisar Belediyespor"
     },
     {
         "stadium_name": "Samsun 19 Mayıs Stadyumu",
@@ -159,11 +159,11 @@
         "stadium_name": "5 Ocak Fatih Terim Stadyumu",
         "stadium_capacity": 16095,
         "stadium_city": "Adana",
-        "stadium_user": "Adanaspor / Adana Demirspor"
+        "stadium_user": "Adanaspor,Adana Demirspor"
     },
     {
         "stadium_name": "Dr. Necmettin Şeyhoğlu Stadyumu",
-        "stadium_capacity": 16000,
+        "stadium_capacity": 12400,
         "stadium_city": "Karabük",
         "stadium_user": "Kardemir Karabükspor"
     },
@@ -201,7 +201,7 @@
         "stadium_name": "Afyonkarahisar Stadyumu",
         "stadium_capacity": 15000,
         "stadium_city": "Afyonkarahisar",
-        "stadium_user": "Afyonkarahisarspor / Sandıklıspor"
+        "stadium_user": "Afyonkarahisarspor,Sandıklıspor"
     },
     {
         "stadium_name": "Başpınar Stadyumu",
@@ -230,7 +230,7 @@
     {
         "stadium_name": "Elazığ Atatürk Stadyumu",
         "stadium_capacity": 13923,
-        "stadium_city": "Elâzığ",
+        "stadium_city": "Elazığ",
         "stadium_user": "Elazığspor"
     },
     {
@@ -327,13 +327,13 @@
         "stadium_name": "Van Atatürk Stadyumu",
         "stadium_capacity": 10500,
         "stadium_city": "Van",
-        "stadium_user": "Belediye Vanspor / Vanspor"
+        "stadium_user": "Belediye Vanspor,Vanspor"
     },
     {
         "stadium_name": "Malatya İnönü Stadyumu",
         "stadium_capacity": 10411,
         "stadium_city": "Malatya",
-        "stadium_user": "Malatyaspor / Yeni Malatyaspor"
+        "stadium_user": "Malatyaspor,Yeni Malatyaspor"
     },
     {
         "stadium_name": "Ünye İlçe Stadyumu",
@@ -411,7 +411,7 @@
         "stadium_name": "Bozok Stadyumu",
         "stadium_capacity": 8260,
         "stadium_city": "Yozgat",
-        "stadium_user": "Yimpaş Yozgatspor"
+        "stadium_user": "Yozgatspor"
     },
     {
         "stadium_name": "Kuşadası Özer Türk Stadyumu",
@@ -561,7 +561,7 @@
         "stadium_name": "Beylerbeyi 75. Yıl Stadyumu",
         "stadium_capacity": 5500,
         "stadium_city": "İstanbul",
-        "stadium_user": "Anadolu Üsküdar 1908 / Beylerbeyispor"
+        "stadium_user": "Anadolu Üsküdar 1908,Beylerbeyispor"
     },
     {
         "stadium_name": "Esenyurt Stadyumu",
@@ -583,7 +583,7 @@
     },
     {
         "stadium_name": "17 Eylül Stadyumu",
-        "stadium_capacity": 5400,
+        "stadium_capacity": 10410,
         "stadium_city": "Balıkesir",
         "stadium_user": "Bandırmaspor"
     },
@@ -591,7 +591,7 @@
         "stadium_name": "General Basri Saran Stadyumu",
         "stadium_capacity": 5300,
         "stadium_city": "Tekirdağ",
-        "stadium_user": "Çerkezköy Belediyespor / Çorluspor"
+        "stadium_user": "Çerkezköy Belediyespor,Çorluspor"
     },
     {
         "stadium_name": "Şeyh Edebali Stadyumu",
